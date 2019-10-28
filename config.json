@@ -1,0 +1,13 @@
+{
+	"image": "in/full.jpg",
+	"monitors": [
+		{
+			"name": "Vertical",
+			"dimensions": [0, 0, 9.75, 23]
+		},
+		{
+			"name": "Large",
+			"dimensions": [11.5, 0.75, 27.5, 15.5]
+		}
+	]
+}
